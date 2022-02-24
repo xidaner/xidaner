@@ -7,6 +7,7 @@
 - 我参与的项目
   - [Freed0m](https://github.com/xidaner/Freed0m) - 个人维护的安全知识笔记
   - [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) - 用于渗透测试和红队基础架构构建的 payload 和字典库
+  - [1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架
   - [Last Music](http://music.163.com/playlist?id=330328959&userid=262256866) - 个人歌单
 
 - 联系我
