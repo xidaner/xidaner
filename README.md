@@ -2,13 +2,13 @@
 
 - 关于我
   - 喜欢钻研技术(ctrl CV工程师)，懂一些安全知识。
-  - 目前在进行代码审计和后渗透安全的学习。
+  - 目前在进行小程序逆向和APK逆向的学习。
 
-- 我参与的项目
+- 项目列表
   - [Freed0m](https://github.com/xidaner/Freed0m) - 个人维护的安全知识笔记
   - [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) - Everything for pentest.
   - [1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架
-  - [Last Music](http://music.163.com/playlist?id=330328959&userid=262256866) - 个人歌单
+  - [Last Music](http://music.163.com/playlist?id=330328959) - 个人歌单
 
 - 联系我
   - Freed0m1@protonmail.com
