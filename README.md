@@ -1,7 +1,7 @@
 ### ⚡ 当你离去时音乐也渐落沉寂。我随之没了节奏，失去灵魂...
 
 - About Me
-  - It's not a shame to lose, it's a shame to be afraid！
+  - "It's not a shame to lose, it's a shame to be afraid！"
   - 喜欢钻研技术(ctrl CV工程师)，懂一些安全知识
 
 - List of Projects
