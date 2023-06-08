@@ -1,12 +1,11 @@
-![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/xidaner)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/xidaner)
 [![Feed](https://img.shields.io/badge/Feed-%E8%AE%A2%E9%98%85-yellowgreen)](https://www.wangrs.co/feed)
 <a href='https://huggingface.co/xidaner'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue'></a>
 [![CSDN](https://img.shields.io/badge/CSDN-5323%20%E5%85%B3%E6%B3%A8-red)](https://blog.csdn.net/u014297502)
 
-> **⚡ 当你离去时音乐也渐落沉寂。我随之没了节奏，失去灵魂...**
-> - List of Projects
->   - [Freed0m](https://github.com/xidaner/Freed0m) - 个人维护的安全知识笔记
+ **⚡ 当你离去时音乐也渐落沉寂。我随之没了节奏，失去灵魂...**
+ - List of Projects
+   - [Freed0m](https://github.com/xidaner/Freed0m) - 个人维护的安全知识笔记
     - [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) - Everything for pentest.
     - [1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架
     - [Last Music](http://music.163.com/playlist?id=330328959) - 个人歌单
