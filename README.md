@@ -8,7 +8,6 @@
    - [Freed0m](https://github.com/xidaner/Freed0m) - 个人维护的安全知识笔记
     - [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) - Everything for pentest.
     - [1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架
-    - [Last Music](http://music.163.com/playlist?id=330328959) - 个人歌单
   - Contact me
     - Freed0m1@protonmail.com
 
@@ -16,7 +15,6 @@
 <div style="display: flex; justify-content: center;">
 <p align="center">
 <img src='https://github.com/SP-XD/SP-XD/raw/main/images/linux_rounded.gif?raw=true' width="280" />
-<a href="https://stats.hyochan.dev/en/stats/xidaner"><img src="https://stats.hyochan.dev/api/github-stats?login=xidaner" width="515" /></a>
 </div>
 
 <p align="center">
